@@ -1,0 +1,38 @@
+TC Payment Notes
+---------------------
+Google Font:
+<link href='https://fonts.googleapis.com/css?family=Raleway:300,400,700,400italic,700italic|Oswald:400,700,300' rel='stylesheet' type='text/css'>
+
+Main Font Color:  #4b4b4b (black)
+
+Colors
+----------
+Callout Section background:  #d2d2d2 (grey)
+Callout section font color:  #878787 (darkgrey)
+
+Green Bar Header background:  #3baf29 (green)
+Green Buttons:  #3baf29 (green)
+
+Best solution section:  #e7e7e7 (white)
+Footer background:  #3e601b (dark green)
+
+
+
+
+Font Awesome Icons
+---------------------
+Address:  <i class="fa fa-map-marker" aria-hidden="true"></i>
+Phone:  <i class="fa fa-phone" aria-hidden="true"></i>
+Email:  <i class="fa fa-envelope" aria-hidden="true"></i>
+Facebook:  <i class="fa fa-facebook-square" aria-hidden="true"></i>
+
+Google Map iFrame
+---------------------
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4765.168925426523!2d-85.59729373109249!3d44.752533933985916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881fcd4ee05c520f%3A0x949b13c60268646b!2s801+S+Garfield+Ave%2C+Traverse+City%2C+MI+49686!5e0!3m2!1sen!2sus!4v1501858744930" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+@genmills.com
+
+jack - wwcustomfab.com
+513-353-4617
+

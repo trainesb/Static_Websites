@@ -1,0 +1,18 @@
+html:
+<img class="background-img" src="BACKGROUND_IMAGE.png" alt="">
+
+
+<img class="topimg" src="bass_lake1.png" alt="">
+<img class="topimg-xs" src="bass_lake_xs.jpg" alt="">
+
+css:
+.background-img {top: 551.6px;z-index: -1;position: absolute;width: 100%;height: 1300px;}
+.background-img {height: 1150px;top: 600px;}
+.background-img {height: 1350px;top: 600px;}
+
+.topimg{position: absolute; right: 0; left: 0; top: 0; margin: auto; z-index: -1; width: 100%;height: 480px;visibility: hidden;}
+
+.topimg-xs {position: absolute; right: 0; left: 0; top: 0; margin: auto; z-index: -1; width: 100%;height: 64%;}
+.topimg-xs {visibility: hidden;}
+
+.topimg {visibility: visible;height: 580px;}

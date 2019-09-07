@@ -1,0 +1,112 @@
+/* fonts
+
+*/
+
+body{-webkit-font-smoothing:antialiased; }
+img{max-width:100%;height:auto;}
+a{transition:all 0.2s ease-out;}
+a, a:hover, a:focus{outline:none !important;text-decoration:none;}
+
+h1,h2,h3,h4,h5,h6{word-wrap:break-word;}
+
+hr{border-top:1px solid #666;}
+/* Formidable Adjustments */
+fieldset legend{display:none !important;} .frm_ajax_loading{display:none !important;} .g-recaptcha div{width:100% !important;} .ui-datepicker .ui-datepicker-title select{color:#000;}
+.frm_error{color:#F00;font-size:12px;margin-top:5px;}
+.has-error .checkbox, .has-error .checkbox-inline, .has-error .control-label, .has-error .help-block, .has-error .radio, .has-error .radio-inline, .has-error.checkbox label, .has-error.checkbox-inline label, .has-error.radio label, .has-error.radio-inline label{color:#F00;}
+.has-error .form-control{border-color:#F00;}
+/* End Formidable Adjustments */
+.btn{white-space:normal;}
+
+.nomargin{margin-left:0;margin-right:0;width: 100%;}
+.nopadding{padding-left:0;padding-right:0;}
+
+/*header-wrapper*/
+.header-wrapper {background-image: url(bass_lake1.png);background-size: cover;}
+.header-wrapper h1 {font-family: 'Pavanam', sans-serif; color: #ffffff; text-decoration: underline; margin: 0 auto;text-align: center;padding-top: 100px;margin-bottom: 130px;}
+.toplogo {padding-top: 10px;}
+.phone , .mail {padding-top: 50px; text-align: center;}
+.phone a, .mail a {color: #08397E;}
+
+
+#topnav{background:#08397E;right: 0;width: 100%;z-index: 100;}
+
+.navbar-fixed-top {top: 0 !important;z-index: 100;position: fixed;width: 100%;}
+
+
+.navbar{margin-bottom:0;min-height:0;}
+.navbar-nav{margin:0;}
+.navbar-default{background:none;border-radius:0;border:0;}
+.nav>li>a{padding:10px 15px; border-right: 1px solid #ffffff;}
+.navbar-nav .open .dropdown-menu .dropdown-header, .navbar-nav .open .dropdown-menu>li>a{padding:10px 15px;}
+.navbar-nav>li>a, .dropdown-menu>li>a, .navbar-default .navbar-toggle{font-size:15px;color:#ffffff;text-align:center;}
+.navbar-default .navbar-nav>li>a{background:none;color:#ffffff;}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{color:#ffffff;text-decoration:none;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color:#ffffff;background:	#8795fa;font-weight:700;}
+.navbar-default .navbar-nav .dropdown-menu>li>a{color:##ffffff;white-space:normal;}
+.navbar-default .navbar-nav .dropdown-menu>li>a:hover{text-decoration:none;}
+.navbar-default .navbar-nav .dropdown-menu{background:#666;padding:0;text-align:center;border:0;border-radius:0;}
+.navbar-default .navbar-nav .current-menu-item a{background:#666;}
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background:none;border:0;border-radius:0;}
+.navbar-toggle{text-align:center;width:100%;float: none;margin:0;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{border:none;box-shadow:none;}
+.navbar-collapse{padding:0;}
+/* Current Ancestor with Current Page Parent */
+.navbar-default .navbar-nav .current-page-ancestor a.dropdown-toggle, .navbar-default .navbar-nav .current_page_parent a.dropdown-toggle, .navbar-default .navbar-nav .current-page-ancestor a.dropdown-toggle:hover, .navbar-default .navbar-nav .current-page-ancestor a.dropdown-toggle:focus{background:#666;font-weight:700;text-decoration:none;}
+
+.btn-default{border: none; cursor: pointer;background-color: transparent; background-repeat: no-repeat; outline: none;}
+.btn-default:hover, .btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .btn-default.focus, .btn-default:focus{background-color: transparent;}
+
+/* keep for WP image captions and alignments */
+img.centered{clear:both;display:block;margin-left:auto;margin-right:auto;}
+img.alignright{padding:4px;margin:0 0 2px 7px;display:inline;}
+img.alignleft{padding:4px;margin:0 7px 2px 0;display:inline;}
+.alignright{float:right;}
+.alignleft{float:left;}
+.aligncenter{clear:both;display:block;margin-left:auto;margin-right:auto;}
+.wp-caption-text{font-size:11px;line-height:17px;margin:0;padding:0 4px 8px 0;font-family: 'Pavanam', sans-serif;text-align:center;}
+.wp-caption{max-width:99%;margin-bottom:10px;padding-top:4px;text-align:center;font-family: 'Passion One', cursive;}
+
+/*content*/
+.content-wrapper {position: absolute;background-image: url(BACKGROUND_IMAGE.png);background-size: cover;}
+.wp-caption:before, .wp-caption:after{content: "";background: #808080 ; display: inline-block; height: 2px; position: relative; vertical-align: middle; width: 50%;}
+.wp-caption:before{right: 0.5em; margin-left:-50%;}
+.wp-caption:after{left: 0.5em; margin-right: -50%;}
+
+
+/* gallery */
+.gal {white-space: nowrap;}
+
+
+/*Details*/
+.icon, .icon1 {padding-top: 15px;text-align: center;color: #ffffff;}
+.icon {background: blue;}
+.icon1 {background: darkblue;}
+.wp-caption-icon{
+    font-size:30px;
+    line-height:17px;
+    margin:0;
+    padding:0 4px 8px 0;
+    font-family: 'Pavanam', sans-serif;
+}
+
+
+/*messege*/
+#messege {background-color: rgba(17, 69, 181, .5);height: 300px;}
+
+/*footer*/
+.footer-wrapper {background-color: rgba(17, 69, 181, 1);text-align:center;padding-top: 10px;}
+
+/* anything smaller is not needed */
+@media (min-width:768px) {
+.navbar-nav>li>a, .dropdown-menu>li>a, .navbar-default .navbar-toggle, .navbar-default .navbar-nav .dropdown-menu{text-align: right;}
+.navbar .navbar-nav{float:none;margin:0 auto;display:table;table-layout:fixed;}
+.header-wrapper h1 {padding-top: 150px;}
+	}
+@media (min-width:992px) {
+
+	}
+@media (min-width:1200px) {
+
+
+	}
